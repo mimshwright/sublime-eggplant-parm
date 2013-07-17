@@ -109,11 +109,6 @@
             <string>Variable</string>
             <key>scope</key>
             <string>variable</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-            </dict>
         </dict>
         <dict>
             <key>name</key>
@@ -133,8 +128,6 @@
             <string>storage</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
                 <string>#F92672</string> <!-- *HOT-PINK* -->
             </dict>
@@ -211,8 +204,6 @@
             <string>entity.name.tag</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
                 <string>#FF5063</string><!-- Bubble Gum -->
             </dict>
@@ -224,8 +215,6 @@
             <string>entity.other.attribute-name</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
                 <string>#A6E22E</string> <!-- *GREEN* -->
             </dict>
@@ -237,8 +226,6 @@
             <string>support.function</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
                 <string>#11C5BF</string> <!-- Wintergreen -->
             </dict>
@@ -250,8 +237,6 @@
             <string>support.constant</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
                 <string>#11C5BF</string> <!-- Wintergreen -->
             </dict>
@@ -274,11 +259,6 @@
             <string>Library variable</string>
             <key>scope</key>
             <string>support.other.variable</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-            </dict>
         </dict>
         <dict>
             <key>name</key>
@@ -567,8 +547,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#C0E0B8</string> <!-- わさび -->
-                <key>background</key>
-                <string></string>
             </dict>
         </dict>
 
