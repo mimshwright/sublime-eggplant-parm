@@ -1,3 +1,6 @@
+#NOTICE:
+**I've you're having trouble with the Eggplant Parm package in Package Control, try removing and reinstalling it!**
+
 # Eggplant Parm Color Scheme
 
 An delicious, aubergine color theme for Sublime Text by Mims H. Wright.
