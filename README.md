@@ -7,6 +7,17 @@ An delicious, aubergine color theme for Sublime Text by Mims H. Wright.
 
 ![Screenshot](http://github.com/mimshwright/sublime-eggplant-parm/raw/master/screenshot.png)
 
+## Install
+
+### Package Control
+
+- Package Control - Install Package
+	- Color Scheme - Eggplant Parm
+
+### ColorSublime
+
+[ColorSublime](http://colorsublime.com/?q=eggplant+parm)
+
 ## Compatibility
 
 The theme has been successfully tested with:
