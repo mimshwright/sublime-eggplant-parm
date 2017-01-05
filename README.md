@@ -7,7 +7,7 @@ A delicious, aubergine color theme for Sublime Text by Mims H. Wright.
 
 A port of this theme for Atom can be found here: [eggplant-parm-syntax](https://github.com/mimshwright/eggplant-parm-syntax)
 
-![Screenshot](http://github.com/mimshwright/sublime-eggplant-parm/raw/master/screenshot.png)
+![Screenshot](./screenshot.png)
 
 By the way, I use the free font [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) by Mark Simonson. I like 19pt. So big right? Deal with it!
 
